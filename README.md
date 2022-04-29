@@ -30,6 +30,13 @@ We propose a class of physically meaningful reward functions enabling the suppre
 ### Installation as a project repository:
 
 ```
+sudo apt-get install python3.8
+pip install numpy
+pip install pandas
+pip install gym
+pip install matplotlib
+pip install stable-baselines3
+
 git clone https://github.com/hlhsu/RLDBS.git
 ```
 
