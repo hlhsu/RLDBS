@@ -30,7 +30,7 @@ We propose a class of physically meaningful reward functions enabling the suppre
 ### Installation as a project repository:
 
 ```
-git clone https://github.com/cviaai/RL-DBS.git
+git clone https://github.com/hlhsu/RLDBS.git
 ```
 
 In this case, you need to manually install the dependencies.
