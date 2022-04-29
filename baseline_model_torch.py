@@ -28,7 +28,7 @@ import argparse
 
 parser = argparse.ArgumentParser()
 parser.add_argument('--algo', type = str, default = 'PPO')
-parser.add_argument('--core', type = int, default = 1) # only PPO is supported with multiple cores
+parser.add_argument('--core', type = int, default = 7) # only PPO is supported with multiple cores
 parser.add_argument('--seed', type = int, default = 0)
 parser.add_argument('--model_folder', type = str, default = 'trained_models')
 parser.add_argument('--exp_name', type = str, default = '_exp_1000_pytorch_test') # ppo: '_exp_1000_pytorch_v2'
