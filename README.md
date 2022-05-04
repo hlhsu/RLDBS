@@ -32,7 +32,6 @@ cd RLDBS
 python3 baseline_model_torch.py
 ```
 
-In this case, you need to manually install the dependencies.
 
 ### Important notes:
 
